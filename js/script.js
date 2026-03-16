@@ -255,3 +255,6 @@ var barChartOptions = {
   
   var areaChart = new ApexCharts(document.querySelector("#area-chart"), areaChartOptions);
   areaChart.render();
+
+
+
